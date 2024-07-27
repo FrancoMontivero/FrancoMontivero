@@ -8,7 +8,7 @@ I'm passionate about being a **Full Stack Web Developer** and deeply enjoy every
 working at NCR since 2021, and I'm seeking a new challenge.
 
 - 📃 Resume here [Resume](https://drive.google.com/file/d/1RC_BkwkStNBtV7N-SV1W_FT0knbe6KjV/view?usp=share_link)
-- 📫 Reach out to me: francofaja@hotmail.com
+- 📫 Reach out to me: francomontiverodev@gmail.com
 
 ## Skills
 ![Angular](https://img.shields.io/badge/Angular-red?logo=Angular)
