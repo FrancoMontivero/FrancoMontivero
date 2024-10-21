@@ -5,7 +5,7 @@
 ![Banner](./images/Franco%20Montivero.png)
 
 I'm passionate about being a **Full Stack Web Developer** and deeply enjoy every project I take part in. I'm currently 
-working at NCR since 2021, and I'm seeking a new challenge.
+working at NCR since 2021, and I'm seeking for new challenges.
 
 - 📃 Resume here [Resume](https://drive.google.com/file/d/1RC_BkwkStNBtV7N-SV1W_FT0knbe6KjV/view?usp=share_link)
 - 📫 Reach out to me: francomontiverodev@gmail.com
